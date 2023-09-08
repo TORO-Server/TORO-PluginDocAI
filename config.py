@@ -14,7 +14,7 @@ PLUGINS = [
 ]
 
 # GGUFファイルのパス
-MODEL_PATH = "models/ggml-model-q4_m.gguf"
+MODEL_PATH = "models/openbuddy-llama2-13b-v11.1.Q4_K_M.gguf"
 
 
 # システムメッセージ
