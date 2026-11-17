@@ -1,3 +1,3 @@
 # TORO-PluginDocAI
 
-<https://github.com/malken21/PluginDocAI> を利用して生成されたプラグインの説明
+TORO サーバーのプラグインの説明を、PluginDocAI というツールを使って生成したものです。生成した説明は [result/PluginDoc.md](result/PluginDoc.md) にあります。
